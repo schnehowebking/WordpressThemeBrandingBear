@@ -1,0 +1,6 @@
+<?php
+the_content();
+
+
+
+?>
